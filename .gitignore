@@ -1,0 +1,19 @@
+# Build results
+bin/
+obj/
+*.user
+*.suo
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# Visual Studio
+.vs/
+*.vsidx
+*.vspscc
+
+# User-specific files
+*.userprefs
+*.usertasks
